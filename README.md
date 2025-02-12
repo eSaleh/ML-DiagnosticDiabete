@@ -6,13 +6,13 @@ Il s'inscrit dans une compétition Kaggle portant sur la détection du diabète 
 
 ## Architecture du répertoire
 
-./
-./data/train.csv
-./data/labels.csv
-./data/test.csv
-./final.ipynb
-./README.md
-./requirements.txt
+- ./
+- ./data/train.csv
+- ./data/labels.csv
+- ./data/test.csv
+- ./final.ipynb
+- ./README.md
+- ./requirements.txt
 
 ## Description du projet
 
